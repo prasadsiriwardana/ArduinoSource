@@ -16,7 +16,7 @@
 OneWire  ds(7);  // on pin 7 (a 4.7K resistor is necessary) make sure you change this from the original pin 10 to an unused pin.
 
 
-char auth[] = "YourAuthToken"; // Put your Auth Token here. (see Step 3 above)
+char auth[] = "YourAuthToken"; // Put your Auth Token here. (Refer Last week article)
 
 void setup()
 {
